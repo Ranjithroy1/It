@@ -1,2 +1,4 @@
 # It
-This is a sample portfolio. &lt;br> Author - Ranjith roy
+This is a sample portfolio.
+<br>
+Author - Ranjith roy
